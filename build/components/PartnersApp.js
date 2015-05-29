@@ -96,6 +96,7 @@ var PartnersApp = React.createClass({
                       <Button bsStyle="link" onClick={this.handleClick} style={{textDecoration:'underline !important',fontWeight:'bold'}} value=".Waterschap">Waterschap</Button>,&nbsp;
                       <Button bsStyle="link" onClick={this.handleClick} style={{textDecoration:'underline !important',fontWeight:'bold'}} value=".Provincie">Provincie</Button>,&nbsp;
                       <Button bsStyle="link" onClick={this.handleClick} style={{textDecoration:'underline !important',fontWeight:'bold'}} value=".Gemeente">Gemeente</Button>.
+
                     </p>
                   </Col>
                   <Col xs={6} md={6} className="sort">

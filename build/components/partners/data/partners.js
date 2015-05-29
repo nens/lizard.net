@@ -14,73 +14,73 @@ module.exports = [{
     "id": 3,
     "name": "Acacia Water",
     "site": "http://www.acaciawater.nl",
-    "roles": "Partner Grondwater",
+    "roles": "Bedrijf Grondwater",
     "description": "Acacia Water richt zich op innovatie en vernieuwing in het (grond)waterbeheer en is een gerenommeerde leverancier van praktische adviezen rondom (grond)wateropgaven. Grondwatermodellen zijn een belangrijk instrument in veel grondwatervraagstukken. Via Lizard ontsluiten wij onze regionale grondwatermodellen, zoals het model van het beheergebied van Hoogheemraadschap Holland Noorderkwartier. Zo ontstaat een interactieve omgeving waarin iedere gebruiker (ook zonder modelkennis) direct toegang heeft tot belangrijke kaarten en relevante modelresultaten."
 }, {
     "id": 4,
     "name": "Bureau Waardenburg",
     "site": "http://www.buwa.nl",
-    "roles": "Partner Ecologie",
+    "roles": "Bedrijf Ecologie",
     "description": "Bureau Waardenburg is een onafhankelijk onderzoeks-, advies- en ontwerpbureau. We werken op het gebied van ecologie, milieu en landschap. Met ruim 75 medewerkers zijn we één van de grote groene adviesbureaus van Nederland. Bureau Waardenburg ontsluit ruimtelijke plannen in Lizard voor communicatie intern en naar de opdrachtgever."
 }, {
     "id": 5,
     "name": "Deltares",
     "site": "http://www.deltares.nl",
-    "roles": "Partner",
+    "roles": "Bedrijf",
     "description": "Deltares is een onafhankelijk toegepast kennisinstituut op het gebied van water, ondergrond en infrastructuur. Wereldwijd werken we aan slimme innovaties, oplossingen en toepassingen voor mens, milieu en maatschappij. We richten ons voornamelijk op delta's, kustregio's en riviergebieden. Als partner stemmen we continu interne ontwikkelingen af met de ontwikkeling van het Lizard portaal. Daarnaast vindt er technische kruisbestuiving plaats."
 }, {
     "id": 6,
     "name": "Fugro",
     "site": "http://www.fugro.nl",
-    "roles": "Partner",
+    "roles": "Bedrijf Ontwikkelaar",
     "description": "De missie van Fugro is om 's werelds meest vooraanstaande dienstverlener te zijn in het verzamelen en interpreteren van gegevens van het aardoppervlak en onderliggende lagen, en in het adviseren en ondersteunen van infrastructurele ontwikkelingen op het land, langs de kust en op de zeebodem. Fugro is mede-ontwikkelaar van het Lizard platform en data-leverancier voor het DDSC dat binnen het Lizard platform draait."
 }, {
     "id": 7,
     "name": "TU Delft",
     "site": "http://www.tudelft.nl",
-    "roles": "Partner",
+    "roles": "Bedrijf",
     "description": "De Technische Universiteit Delft is al jaren het opleidingsinstituut voor technische professionals in de waterwereld. Daarnaast beschikt de universiteit over een groot onderzoekscluster. TU Delft ondersteunt het Lizard platform en werkt daar aan mee binnen het project 3Di (http://www.3di.nu)."
 }, {
     "id": 8,
     "name": "InTech",
     "site": "http://www.intech.nl",
-    "roles": "Partner Waterveiligheid",
+    "roles": "Bedrijf Waterveiligheid",
     "description": "InTech BV is een specialistisch, innovatief adviesbureau dat uiteenlopende diensten levert in het hogere segment op het gebied van water, bodem en milieu. Ook op het gebied van dijkbewaking, -monitoring en floodcontrol is InTech een belangrijke speler op de markt. Kwaliteit, creativiteit, betrouwbaarheid en kostenbewust zijn de kernwaarden binnen ons bureau. Intech heeft Lizard o.a. ingezet in Vietna, als informatie platform voor monitoring van metingen (o.a. bodemvocht), visualisatie faalkansen en voor het tonen en creëren van overstromingscenario's"
 }, {
     "id": 9,
     "name": "Mott MacDonald",
     "site": "",
-    "roles": "Partner",
+    "roles": "Bedrijf",
     "description": "Mott MacDonald is een wereldwijd opererend management, engineering en consultancy bureau, werkzaam in de publieke en private sector, met circa 14.000 medewerkers en een omzet van ruim 1,2 miljard Euro. Het bedrijf levert creatieve oplossingen door een combinatie van lokale kennis en wereldwijd beschikbare expertise. Mott MacDonald is gespecialiseerd in publiek-private samenwerkingsvormen. Samen met Nelen & Schuurmans ontwikkelt Mott MacDonald oonline management informatie systemen. Een mooie inzet hiervan is fase 2 van het 'National Water Resources Plan' van Egypte."
 }, {
     "id": 10,
     "name": "RHDHV",
     "site": "http://www.rhdhv.nl",
-    "roles": "Partner Ontwikkelaar",
+    "roles": "Bedrijf Ontwikkelaar",
     "description": "Royal HaskoningDHV is een toonaangevende onafhankelijk internationaal opererend project management, engineering en consultancy service provider. Elk jaar dragen wij overal ter wereld bij aan het realiseren van meer dan 30.000 projecten, in opdracht van onze publieke en private klanten. Om onze waterkennis en ervaring nog beter aan te laten sluiten bij de klantvraag vormen automatisering en informatisering een steeds belangrijker aspect bij onze werkzaamheden. Royal HaskoningDHV gebruikt het Lizard platform om deze data te ontsluiten en zo de gebruiker makkelijker toegang te geven tot de achterliggende informatie. Binnen Lizard hebben wij de succesvolle Nationale Regen Radar en bijbehorende RainApp ontwikkeld."
 }, {
     "id": 11,
     "name": "SarVision",
     "site": "http://www.sarvision.nl",
-    "roles": "Partner Dataleverancier",
+    "roles": "Bedrijf Dataleverancier",
     "description": "SarVision is een spin-off van de Universiteit Wagening (WUR). SarVision is pionier op het gebied van operationele inzet van satelliet-, geografische- en cartografische systemen in  met toepassing in natuur- milieukundige vraagstukken. Binnen diverse binnen- en buitenlandse projecten werken Sarvision en Lizard samen om deze ruimtelijke en temporele data te ontsluiten."
 }, {
     "id": 12,
     "name": "Tijhuis Ingenieurs",
     "site": "http://www.tijhuisingenieurs.nl",
-    "roles": "Partner Ontwikkelaar",
+    "roles": "Bedrijf Ontwikkelaar",
     "description": "Tijhuis Ingenieurs is een onafhankelijk advies- en ingenieursbureau. Als bureau ondersteunt Tijhuis Ingenieurs haar opdrachtgevers in al hun vraagstukken op het gebied van waterbodem, oppervlaktewater en ecologie. Door de verschillende achtergronden van de adviseurs worden projecten vanuit meerdere invalshoeken bekeken. De oplossingen van Tijhuis Ingenieurs staan dicht bij de praktijk en zijn direct uitvoerbaar. Door de servicegerichte aanpak en het directe contact met de opdrachtgevers is Tijhuis Ingenieurs het antwoord op uw vragen op het gebied van waterbodem, oppervlaktewater en ecologie. Tijhuis heeft als ontwikkelaar met Lizard het Waterbodem Informatiesysteem Tijhuis (WIT) ontwikkeld."
 }, {
     "id": 13,
     "name": "Wareco",
     "site": "http://www.wareco.nl",
-    "roles": "Partner Grondwater Dataleverancier",
+    "roles": "Bedrijf Grondwater Dataleverancier",
     "description": "Wareco is het Nederlandse ingenieursbureau op het gebied van water,  bodem en funderingen. Onze kracht is de integratie en combinatie van de specialisaties. We doen onderzoek en geven advies. We maken plannen en begeleiden de uitvoering. Enthousiast, persoonlijk en innovatief. Al 30 jaar leveren we maatwerk, met als resultaat hoge kwaliteit en duurzame, kostenbesparende oplossingen. Wareco levert voor diverse opdrachtgevers hun (WarecoWater)data aan via het Lizard platform."
 }, {
     "id": 14,
     "name": "Nelen & Schuurmans",
     "site": "http://www.nelen-schuurmans.nl",
-    "roles": "Partner Ontwikkelaar",
+    "roles": "Bedrijf Ontwikkelaar",
     "description": "Nelen & Schuurmans is een adviesbureau op het gebied van watermanagement, dat de publieke en private sector ondersteunt bij strategische en operationele watervraagstukken en ondersteunende software oplossingen biedt. Het bedrijf bestaat uit een dynamische groep van meer dan 60 adviseurs en IT'ers. Onze adviezen zijn gebaseerd op gedegen kennis van water en IT (denk aan hydrologie, waterveiligheid, ecologie &waterkwaliteit, civiele techniek, ICT). Als ontwikkelaar hebben we het Lizard platform ingezet voor projecten bij Rijkswaterstaat (Deltaportaal) en Stichting IJkdijk (Dijk Data Service Centrum, DDSC). Vanuit Stichting 3Di werkt  Nelen & Schuurmans momenteel aan de koppeling van 3Di (http://www.3di.nu) met Lizard."
 }, {
     "id": 15,
@@ -302,13 +302,13 @@ module.exports = [{
     "id": 51,
     "name": "Waterschapsbedrijf Limburg",
     "site": "http://regenradar.lizard.net",
-    "roles": "Bedrijf, Waterschap, Basis, Samenwerking",
+    "roles": "Bedrijf Waterschap Basis Samenwerking",
     "description": "De Limburgse gemeenten en Waterschapsbedrijf Limburg hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten en het waterschapsbedrijf toegang tot deze neerslaginformatie."
 }, {
     "id": 52,
     "name": "Vechtstromen",
     "site": "http://twn.lizard.net",
-    "roles": "Waterschap, Basis, Samenwerking",
+    "roles": "Waterschap Basis Samenwerking",
     "description": "De samenwerking Twents Water Net heeft gezamenlijk met het Waterschap gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie."
 }, {
     "id": 53,
