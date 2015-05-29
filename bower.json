@@ -14,6 +14,7 @@
   ],
   "dependencies": {
     "flag-icon-css": "~0.7.0",
-    "sweetalert": "~0.5.0"
+    "sweetalert": "~0.5.0",
+    "isotope": "4.2.11"
   }
 }

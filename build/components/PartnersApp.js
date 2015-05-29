@@ -157,7 +157,7 @@ var Partner = React.createClass({
     var repoClasses = 'repo ' + this.props.key;
 
     var imgfilename = this.props.name.replace(/ /g, '-').replace(/&/, '');
-    var imgUrl = '/images/partners/'+imgfilename+'.png';
+    var imgUrl = '../images/partners/'+imgfilename+'.png';
     var divStyle = {
       backgroundImage: 'url(' + imgUrl + ')',
       backgroundSize: 'cover',
@@ -192,7 +192,7 @@ var Partner = React.createClass({
 var InfoModal = React.createClass({
   render: function() {
     var imgfilename = this.props.name.replace(/ /g, '-').replace(/&/, '');
-    var imgUrl = '/images/partners/'+imgfilename+'.png';
+    var imgUrl = '../images/partners/'+imgfilename+'.png';
     var divStyle = {
       backgroundImage: 'url(' + imgUrl + ')',
     };
