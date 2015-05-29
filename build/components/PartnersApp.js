@@ -135,6 +135,7 @@ var Partners = React.createClass({
           phoneA={partner.phoneA}
           phoneB={partner.phoneB}
           email={partner.email}
+          website={partner.site}
           profilepic={partner.profilepic}
           description={partner.description} />
       )
@@ -174,6 +175,7 @@ var Partner = React.createClass({
         modal={<InfoModal 
         id={this.props.key} 
         name={this.props.name} 
+        website={this.props.website}
         description={this.props.description}/>}>      
           <div className={isotopeClasses} id={this.props.name} style={{cursor:'pointer'}}>
             <div className="repo">
@@ -212,7 +214,11 @@ var InfoModal = React.createClass({
                 <p style={{color:'#000',fontSize:14,lineHeight:'1.65em'}}>
                   <span dangerouslySetInnerHTML={{__html:this.props.description}}></span>
                 </p>
-            </td></tr>
+                <p>
+                  Website: <a href={this.props.website} target="_blank">{this.props.website}</a>
+                </p>
+            </td>
+            </tr>
             </table>
           </div>
           <div className="modal-footer">
