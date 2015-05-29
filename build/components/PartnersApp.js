@@ -33,11 +33,7 @@ window.React = React; // React DevTools won't work without this
 
 
 
-
-
-
 var PartnersApp = React.createClass({
-
 
     componentDidMount: function() {
         iso = new Isotope('#content', {
@@ -58,6 +54,7 @@ var PartnersApp = React.createClass({
           });          
         }
     },
+
     handleFilter: function(e) {
       var filterValue = this.refs.filter.getValue();
       iso.arrange({
@@ -71,12 +68,14 @@ var PartnersApp = React.createClass({
         }
       });
     },
+
     handleSort: function(e) {
         var sortValue = $(e.target).val();
         iso.arrange({
             sortBy: sortValue
         });
     },
+
     render: function() {
         return (
           <div>
@@ -126,7 +125,13 @@ var PartnersApp = React.createClass({
 var Partners = React.createClass({
 
   render: function() {
-    var partnerNodes = this.props.data.map(function(partner) {
+    console.log(this.props.data);
+    var partners = this.props.data.sort(function(a, b) {
+      if(a.name < b.name) return -1;
+      if(a.name > b.name) return 1;
+      return 0;
+    });
+    var partnerNodes = partners.map(function(partner) {
       return (
         <Partner
           key={partner.id}
@@ -193,6 +198,7 @@ var Partner = React.createClass({
 
 
 var InfoModal = React.createClass({
+
   render: function() {
     var imgfilename = this.props.name.replace(/ /g, '-').replace(/&/, '');
     var imgUrl = '../images/partners/'+imgfilename+'.png';
