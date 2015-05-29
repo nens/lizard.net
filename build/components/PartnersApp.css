@@ -1,0 +1,99 @@
+.btn-link {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.repo {
+  /*height: auto;*/
+  min-height: 160px;
+  padding: 12px;
+  background-color: #f4f4f4;
+  /*border: 1px solid #dedede;*/
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.picture {
+  height: auto;
+  min-height: 10em;
+  padding: 12px;  
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray;  
+}
+.socialmedia {
+  color: red;
+  display: none;
+}
+.repo:hover + .socialmedia {
+  display: block;
+}
+
+.repo-header {
+margin: 20px 0 12px 0;
+border-left: 2px solid #efefef;
+padding-left: 12px;
+cursor: pointer;
+border-color: #0298c3;
+}
+.repo-description {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 26px;
+}
+.repo p {
+padding: 0 12px;
+margin-bottom: 1em !important;
+}
+h2 {
+font-family: 'Geogroteque-Light', sans-serif;
+font-size: 2em;
+line-height: 1.5em;
+}
+.repo-title {
+  font-weight:600;
+  font-size: 18px;
+  
+}
+.repo-title a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.74902);
+}
+.repo-header h3 {
+font-size: 1.25em;
+line-height: 1.5em;
+}
+h3.repo-roles {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.498039);
+}
+
+div.stats {
+  margin-left: 16px;
+}
+.repo-container {
+  font-family: 'Open Sans', 'sans-serif';
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+float: left;
+padding: 1.5em;
+width: 16.5em;
+}
+.isotope, .isotope .isotope-item {
+-webkit-transition-duration: 0.8s;
+-moz-transition-duration: 0.8s;
+transition-duration: 0.8s;
+}
+.isotope-item {
+z-index: 2;
+}
+
+

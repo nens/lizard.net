@@ -1,0 +1,33 @@
+{
+  "name": "lizard-net-components",
+  "private": true,
+  "version": "0.0.1",
+  "description": "JS/React components for Lizard.net",
+  "main": "app.js",
+  "author": "Gijs Nijholt <gijs.nijholt@nelen-schuurmans.nl>",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "babel": "~4.3.0",
+    "classnames": "1.2.0",
+    "d3": "3.5.5",
+    "debug": "^2.0.0",
+    "jquery": "~2.1.1",
+    "react": "0.13.1",
+    "react-bootstrap": "0.23.0",
+    "react-router": "0.13.3",
+    "react-spinkit": "1.0.2",
+    "react-widgets": "2.6.0",
+    "sweetalert": "0.5.0",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "css-loader": "0.12.0",
+    "imports-loader": "0.6.3",
+    "jsx-loader": "^0.12.2",
+    "style-loader": "0.12.1",
+    "url-loader": "0.5.5",
+    "webpack": "1.7.3"
+  }
+}
