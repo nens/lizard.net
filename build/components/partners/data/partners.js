@@ -86,7 +86,7 @@ module.exports = [{
     "id": 15,
     "name": "Alkmaar",
     "site": "http://alkmaar.lizard.net",
-    "roles": "Gemeente, Professioneel",
+    "roles": "Gemeente Professioneel",
     "description": "Gemeente Alkmaar is al jaren gebruiker van Lizard. De gemeente ontsluit in Lizard haar beheergegevens en tijdreeksen uit telemetrie en FEWS. En kan de data van Hoogheemraadschap Hollands Noorderkwartier bekijken. Hierbij gaat het om waterstanden in het stelsel en bij overstorten, grondwater, regenmeters en debieten van (transport-)gemalen. Daarbij heeft de gemeente realtime koppeling met haar rioleringsmodel en klachten- en meldingenregistratie. Samen met signalering op waakhoogteoverschrijding en actieve overstorten heeft de gemeente Alkmaar te allen tijde een integraal en actueel beeld van de toestand van haar rioleringssysteem."
 }, {
     "id": 16,
