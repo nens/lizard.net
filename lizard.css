@@ -675,3 +675,36 @@ body.support h2 {
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
+
+
+
+
+
+
+
+
+.lizardexperiencebanner {
+  background-image: url('./images/banner-lizardexperience.png');
+  position: absolute;
+  width: 590px;
+  height: 330px;
+  right: 0;
+  top: 50px;
+  z-index: 100;
+  background-repeat: no-repeat;
+  -moz-transform: scale(.5) rotate(8deg);
+  -ms-transform: scale(.5) rotate(8deg);
+  -webkit-transform: scale(.5) rotate(8deg);
+  transform: scale(.5) rotate(8deg);    
+}
+@media all and (max-width: 768px) {
+  .lizardexperiencebanner {
+    top: 0;
+    right: -120px;
+    -moz-transform: scale(.3) rotate(8deg);
+    -ms-transform: scale(.3) rotate(8deg);
+    -webkit-transform: scale(.3) rotate(8deg);
+    transform: scale(.3) rotate(8deg);    
+  }  
+}
