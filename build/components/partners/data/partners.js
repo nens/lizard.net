@@ -49,7 +49,7 @@ module.exports = [{
 }, {
     "id": 9,
     "name": "Mott MacDonald",
-    "site": "",
+    "site": "https://www.mottmac.com/nl-NL/netherlands",
     "roles": "Bedrijf",
     "description": "Mott MacDonald is een wereldwijd opererend management, engineering en consultancy bureau, werkzaam in de publieke en private sector, met circa 14.000 medewerkers en een omzet van ruim 1,2 miljard Euro. Het bedrijf levert creatieve oplossingen door een combinatie van lokale kennis en wereldwijd beschikbare expertise. Mott MacDonald is gespecialiseerd in publiek-private samenwerkingsvormen. Samen met Nelen & Schuurmans ontwikkelt Mott MacDonald oonline management informatie systemen. Een mooie inzet hiervan is fase 2 van het 'National Water Resources Plan' van Egypte."
 }, {
@@ -151,159 +151,159 @@ module.exports = [{
 }, {
     "id": 26,
     "name": "Peel en Maasvallei",
-    "site": "http://waterschappenlimburg.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Waterschap Standaard Grondwater",
     "description": "Voor communicatie van waterstanden, afvoeren, grondwaterstanden en neerslag binnen de organisatie en stakeholders in het beheergebied, maakt Waterschap Peil en Maasvallei gebruik van Lizard. Door middel van een koppeling met hun ArcGIS server ontsluiten zij een kaartlaag van hun waterlopen."
 }, {
     "id": 27,
     "name": "Roer en Overmaas",
-    "site": "http://waterschappenlimburg.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Waterschap Standaard Grondwater",
-    "description": "Voor communicatie van waterstanden, afvoeren, grondwaterstanden en neerslag binnen de organisatie en stakeholders in het beheergebied, maakt Waterschap Roer en Overmaas gebruik van Lizard. Door middel van een koppeling met hun ArcGIS server ontsluiten zij een kaartlaag van hun waterlopen. Roer en Overmaas stelt haar abonnement op de http://regenradar.lizard.net open voor de Limburgse gemeenten, zodat zij hier kunnen inloggen voor actuele neerslagbeelden en -statistieken."
+    "description": "Voor communicatie van waterstanden, afvoeren, grondwaterstanden en neerslag binnen de organisatie en stakeholders in het beheergebied, maakt Waterschap Roer en Overmaas gebruik van Lizard. Door middel van een koppeling met hun ArcGIS server ontsluiten zij een kaartlaag van hun waterlopen. Roer en Overmaas stelt haar abonnement op de http://limburg.lizard.net open voor de Limburgse gemeenten, zodat zij hier kunnen inloggen voor actuele neerslagbeelden en -statistieken."
 }, {
     "id": 28,
     "name": "Roermond",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 29,
     "name": "Weert",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 30,
     "name": "Peel en Maas",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 31,
     "name": "Venray",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 32,
     "name": "Horst aan de Maas",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 33,
     "name": "Leudal",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 34,
     "name": "Echt-Susteren",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 35,
     "name": "Brunssum",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 36,
     "name": "Stein",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 37,
     "name": "Eijsden-Margraten",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 38,
     "name": "Maasgouw",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 39,
     "name": "Roerdalen",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 40,
     "name": "Meerssen",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 41,
     "name": "Valkenburg aan de Geul",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 42,
     "name": "Nederweert",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 43,
     "name": "Gulpen-Wittem",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 44,
     "name": "Schinnen",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 45,
     "name": "Bergen",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 46,
     "name": "Voerendaal",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 47,
     "name": "Simpelveld",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 48,
     "name": "Vaals",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 49,
     "name": "Mook en Middelaar",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 50,
     "name": "Sittard-Geleen",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Gemeente Basis Samenwerking",
-    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten toegang tot deze neerslaginformatie."
 }, {
     "id": 51,
     "name": "Waterschapsbedrijf Limburg",
-    "site": "http://regenradar.lizard.net",
+    "site": "http://limburg.lizard.net",
     "roles": "Bedrijf Waterschap Basis Samenwerking",
-    "description": "De Limburgse gemeenten en Waterschapsbedrijf Limburg hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://regenradar.lizard.net en het Lizard portaal van de Waterschappen Peel en Maasvallei en Roer en Overmaas hebben de gemeenten en het waterschapsbedrijf toegang tot deze neerslaginformatie."
+    "description": "De Limburgse gemeenten en Waterschapsbedrijf Limburg hebben gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via http://limburg.lizard.net hebben de gemeenten en het waterschapsbedrijf toegang tot deze neerslaginformatie."
 }, {
     "id": 52,
     "name": "Vechtstromen",
@@ -388,4 +388,64 @@ module.exports = [{
     "site": "http://zzl.lizard.net",
     "roles": "Waterschap Standaard Samenwerking",
     "description": "Voor data-uitwisseling binnen en buiten de organisatie maakt het waterschap gebruik van Lizard. Zo ontsluit het waterschap binnen samenwerking Flevoland de waterstanden en debieten van gemalen en watergangen in Flevoland. Voor intern ontsluit het waterschap diverse waterkwantiteit en -kwaliteitgegevens. Ook de zuiveringsdata van de verschillende RWZI's is online beschikbaar voor analayse. Mail voor meer informatie naar info@lizard.net."
+}, {
+    "id": 66,
+    "name": "Waternet",
+    "site": "http://waternet.lizard.net",
+    "roles": "Waterschap Professioneel Samenwerking",
+    "description": "Voor het ontsluiten van stelselinformatie en inzicht in actuele en historische neerslag heeft Waternet een abonnement op Lizard afgesloten. In de samenwerking met de gemeente Amsterdam en Amsterdam Rainproof worden 3Di modellen ontwikkeld. De resultaten van deze modellen geven een ruimtelijk beeld van de neerslaggevoeligheid van de stad. Deze bevindingen dienen als input voor de ontwikkeling van ruimtelijke plannen en aanpak van de ruimtelijke ordening. Ook op deze manier werkt Waternet aan een betere leefomgeving. De resultaten zijn te vinden in het portaal van Waternet. Mail voor meer informatie naar info@lizard.net."
+}, {
+    "id": 67,
+    "name": "Goes",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 68,
+    "name": "Kapelle",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 69,
+    "name": "Middelburg",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 70,
+    "name": "Noord-Beveland",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 71,
+    "name": "Reimerswaal",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 72,
+    "name": "Schouwen-Duiveland",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 73,
+    "name": "Terneuzen",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 74,
+    "name": "Tholen",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 75,
+    "name": "Vlissingen",
+    "site": "http://saz.lizard.net",
+    "roles": "Gemeente Professioneel Samenwerking",
+    "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
 }];
