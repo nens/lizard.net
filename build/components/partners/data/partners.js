@@ -448,4 +448,10 @@ module.exports = [{
     "site": "http://saz.lizard.net",
     "roles": "Gemeente Professioneel Samenwerking",
     "description": "De Samenwerking Afvalwaterketen Zeeland (SAZ) heeft gezamenlijk gekozen voor neerslagdata van de Nationale Regen Radar. Via het Lizard portaal hebben zijn toegang tot deze neerslaginformatie. Daarnaast hebben zij toegang tot de Open Databronnen die het Lizard platform biedt."
+}, {
+    "id": 76,
+    "name": "Groot Salland",
+    "site": "http://www.wgs.nl/actueel/actuele-waterstanden/",
+    "roles": "Waterschap Groot Salland",
+    "description": "Het waterschap wil graag een goed beeld te hebben van de waterstanden binnen het beheergebied. Op die manier voert het waterschap effici&euml;nter haar taken uit. Via het Lizard portaal hebben zij toegang tot deze data."    
 }];
