@@ -5,8 +5,8 @@
 a {
    outline: 0 !important;
 }
-input::-moz-focus-inner { 
-  border: 0 !important; 
+input::-moz-focus-inner {
+  border: 0 !important;
 }
 select:-moz-focusring {
     color: transparent !important;
@@ -16,7 +16,7 @@ select:-moz-focusring {
 
 body {
 	font-family: "Open Sans",Helvetica,Arial,sans-serif;
-	-webkit-font-smoothing: antialiased;	
+	-webkit-font-smoothing: antialiased;
 }
 
 .navbar-default {
@@ -98,12 +98,12 @@ small {
 
 .videowrapper {
 	position: absolute;
-	min-width: 100%; 
-	width: auto; 
-	height: 500px; 
+	min-width: 100%;
+	width: auto;
+	height: 500px;
 	z-index: -100;
 	background-size: cover;
-	margin-top: -105px;	
+	margin-top: -105px;
 	/*height: 520px;*/
 	overflow: hidden;
 }
@@ -117,7 +117,7 @@ small {
 	font: 700 13px Arial !important;
 	margin-bottom: 5px !important;
 	padding: 0 65px !important;
-	line-height: 40px !important;	
+	line-height: 40px !important;
 }
 
 .u-space {
@@ -158,12 +158,12 @@ margin-bottom: 30px;
 }
 
 .pricing-table {
-	margin: 100px 0;	
+	margin: 100px 0;
 }
-.pricing-table:after { 
-	display: block; 
-	visibility: hidden; 
-	clear: both; 
+.pricing-table:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
 	height: 0;
 	content: "";
 }
@@ -258,7 +258,7 @@ margin-bottom: 30px;
 .pricing-column h4 {
 	margin-bottom: 0px;
 	margin-left: -22px;
-	padding: 20px 30px 6px 30px;	
+	padding: 20px 30px 6px 30px;
 	color: #333333;
 	font-size: 54px!important;
 	line-height: 42px!important;
@@ -306,7 +306,7 @@ margin-bottom: 30px;
 }
 
 .pricing-column.highlight h3 {
-/*	background-color: #0a72f5 !important;	
+/*	background-color: #0a72f5 !important;
 	color: #fff;*/
 }
 
@@ -412,7 +412,7 @@ margin-bottom: 30px;
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     -o-transform: rotate(0deg);
-    transform: rotate(0deg);	
+    transform: rotate(0deg);
     transition: all 0.5s ease;
 }
 
@@ -421,7 +421,7 @@ margin-bottom: 30px;
     -moz-transform: rotate(-180deg);
     -ms-transform: rotate(-180deg);
     -o-transform: rotate(-180deg);
-    transform: rotate(-180deg);	
+    transform: rotate(-180deg);
     transition: all 0.5s ease;
 }
 
@@ -596,7 +596,7 @@ line-height: 1.3em;
   width: 50%;
   height: 24px;
   top: -14px;
-  left: 0;  
+  left: 0;
 }
 #aanbieding .timeline-block.bigone::after {
   width: 24px;
@@ -678,25 +678,19 @@ body.support h2 {
 
 
 
-
-
-
-
-
-
 .lizardexperiencebanner {
-  background-image: url('./images/banner-lizardexperience.png');
+  background-image: url('./images/banner-laat-innovaties-werken.png');
   position: absolute;
-  width: 590px;
-  height: 330px;
+  width: 390px;
+  height: 530px;
   right: 0;
-  top: 50px;
+  top: 0px;
   z-index: 100;
   background-repeat: no-repeat;
   -moz-transform: scale(.5) rotate(8deg);
   -ms-transform: scale(.5) rotate(8deg);
   -webkit-transform: scale(.5) rotate(8deg);
-  transform: scale(.5) rotate(8deg);    
+  transform: scale(.5) rotate(8deg);
 }
 @media all and (max-width: 768px) {
   .lizardexperiencebanner {
@@ -705,6 +699,6 @@ body.support h2 {
     -moz-transform: scale(.3) rotate(8deg);
     -ms-transform: scale(.3) rotate(8deg);
     -webkit-transform: scale(.3) rotate(8deg);
-    transform: scale(.3) rotate(8deg);    
-  }  
+    transform: scale(.3) rotate(8deg);
+  }
 }
