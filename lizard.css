@@ -681,7 +681,7 @@ body.support h2 {
 .lizardexperiencebanner {
   background-image: url('./images/banner-laat-innovaties-werken.png');
   position: absolute;
-  width: 390px;
+  width: 458px;
   height: 530px;
   right: 0;
   top: 0px;
@@ -694,8 +694,8 @@ body.support h2 {
 }
 @media all and (max-width: 768px) {
   .lizardexperiencebanner {
-    top: 0;
-    right: -120px;
+    top: -100px;
+    right: -80px;
     -moz-transform: scale(.3) rotate(8deg);
     -ms-transform: scale(.3) rotate(8deg);
     -webkit-transform: scale(.3) rotate(8deg);
